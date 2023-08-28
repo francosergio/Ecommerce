@@ -1,0 +1,14 @@
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Model.deps.json
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Model.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Model.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.csproj.AssemblyReference.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\refint\Ecommerce.Model.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\ref\Ecommerce.Model.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Model.runtimeconfig.json
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Model.genruntimeconfig.cache

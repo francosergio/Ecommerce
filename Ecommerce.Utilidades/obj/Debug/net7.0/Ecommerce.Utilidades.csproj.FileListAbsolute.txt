@@ -1,0 +1,17 @@
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.deps.json
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.AssemblyInfo.cs
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\refint\Ecommerce.Utilidades.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\ref\Ecommerce.Utilidades.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Model.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Model.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.CopyComplete

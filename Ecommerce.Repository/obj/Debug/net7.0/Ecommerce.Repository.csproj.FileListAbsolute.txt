@@ -1,0 +1,15 @@
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Repository.deps.json
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Repository.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Repository.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.AssemblyInfo.cs
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\refint\Ecommerce.Repository.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\ref\Ecommerce.Repository.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Model.dll
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Model.pdb
+C:\Users\Tecnicos\Desktop\PROYECTOS\Ecommerce\Ecommerce\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.csproj.CopyComplete
